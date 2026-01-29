@@ -8,4 +8,5 @@
 
 4. Nambiar, A., Heflin, M., Liu, S., Maslov, S., Hopkins, M., & Ritz, A. (2020). Transforming the language of life: Transformer neural networks for protein prediction tasks. *Proceedings of the 11th ACM International Conference on Bioinformatics, Computational Biology and Health Informatics (BCB '20)*, Article 5, 1–8. [https://doi.org/10.1145/3388440.3412467](https://doi.org/10.1145/3388440.3412467)
 
-5. Penić, R., Vlašić, T., Huber, R., Wan, Y., & Sikic, M. (2025). RiNALMo: general-purpose RNA language models can generalize well on structure prediction tasks.
+5. Penić, R., Vlašić, T., Huber, R., Wan, Y., & Sikic, M. (2025). RiNALMo: general-purpose RNA language models can generalize well on structure prediction tasks. *Nature Communications*, 16(1), Article 60872. [https://doi.org/10.1038/s41467-025-60872-5](https://doi.org/10.1038/s41467-025-60872-5)
+
