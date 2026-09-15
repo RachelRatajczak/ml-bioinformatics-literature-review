@@ -27,5 +27,5 @@ Key highlights include:
 - **RNA Language Models:** RiNALMo [5] applies transformer-based models to RNA sequences, demonstrating the scalability and predictive power of modern sequence models.
 
 Overall, the review shows that machine learning has significantly reshaped biological sequence analysis by enabling large-scale, interpretable, and accurate predictions. While challenges remain, such as model interpretability, data availability, and overfitting; these approaches are driving the next generation of computational biology research.
-
+ 
 
